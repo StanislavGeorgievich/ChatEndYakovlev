@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090933985948",
+    "project_id": "chatend-a319e",
+    "storage_bucket": "chatend-a319e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090933985948:android:c14e9532af621c559f9359",
+        "android_client_info": {
+          "package_name": "com.yacovlev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090933985948-78f5hli7gpi1pj9kv054krskv77sm14o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yacovlev",
+            "certificate_hash": "7cfc176b252ab38d404bdc5d7462decb6eb786e4"
+          }
+        },
+        {
+          "client_id": "1090933985948-8h0lkkj17lismq3ud5ca0nuao49t4r9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn9-U8kQwVDVX02npHk__hjr4n_nGBGig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090933985948-8h0lkkj17lismq3ud5ca0nuao49t4r9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat Message</string>
+    <string name="app_name_after">Messagw Chat</string>
+    <string name="text_bottom">Войти в свою учетную запись</string>
+    <string name="app_in_name">Authoriz</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnReg">Зарегестрироваться</string>
+</resources>
